@@ -1,0 +1,359 @@
+{
+    "categories": [
+        {
+            "name": "Лысые и Крутые",
+            "questions": [
+                {
+                    "points": 10,
+                    "question": {
+                        "text": "Красивый",
+                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/210210180525-07-stanley-tucci-movies-lovely-bones-restricted.jpg?q=w_3144,h_2096,x_0,y_0,c_fill"
+                    },
+                    "answer": {
+                        "text": "Стэнли Туччи",
+                        "image": "https://lh6.googleusercontent.com/bk3rw1SklwThEFZpcPzdphTBg5EEGjiZ7HfnDlVR7GxJrFOjF4MOyzg-a8pZ-_KGE5KbbNdAt1lLsWA_mviu3Pe5Fr7exnDK84hmSoQYLpHeJZ5p_GBRWJ8EC1M0lACOYvCrLfIUCpdg8qXdxKGycXE"
+                    }
+                },
+                {
+                    "points": 20,
+                    "question": {
+                        "text": "Цуефа",
+                        "image": "https://uznayvse.ru/images/content/2023/4/30/dwayne-johnson-as-a-young-man_8.jpg"
+                    },
+                    "answer": {
+                        "text": "Камень!",
+                        "image": "https://i.pinimg.com/474x/57/80/4d/57804d3d79f0b20dc404885b16587a06.jpg"
+                    }
+                },
+                {
+                    "points": 30,
+                    "question": {
+                        "text": "За фильм очки удваиваются",
+                        "image": "https://www.kino-teatr.ru/acter/album/48397/1393091.jpg"
+                    },
+                    "answer": {
+                        "text": "Виновен в 10 форсаже",
+                        "image": "https://static.okko.tv/images/v4/8fd67b64-8888-4d42-a58d-f6492a79f434"
+                    }
+                },
+                {
+                    "points": 40,
+                    "question": {
+                        "text": "Стильный",
+                        "image": "https://images.thevoicemag.ru/upload/img_cache/792/7929f16efd94eaec502a984f2b5015df_cropped_510x690.webp"
+                    },
+                    "answer": {
+                        "text": "А тут ещё и крутой",
+                        "image": "https://popcake.akamaized.net/wp-content/uploads/2020/07/66623801_215088636120287_3722387074360083737_n.jpg"
+                    }
+                },
+                {
+                    "points": 50,
+                    "question": {
+                        "text": "Красивый",
+                        "image": "https://avatars.mds.yandex.net/get-kinopoisk-post-img/1101236/3bd52d307d69e9ba942ac28ce7a4fcac/960x540"
+                    },
+                    "answer": {
+                        "text": "и добрый Вуди Харрельсон",
+                        "image": "https://www.kino-teatr.ru/acter/album/53435/262240.jpg"
+                    }
+                },
+                {
+                    "points": 100,
+                    "question": {
+                        "text": "Крутой",
+                        "image": "https://s4.afisha.ru/mediastorage/a8/d0/9dfd0efbfe6c41bc8b8b230ad0a8.jpg"
+                    },
+                    "answer": {
+                        "text": "Стэтхэм",
+                        "image": "https://avatars.dzeninfra.ru/get-zen_doc/1907878/pub_633138eb511ed855680d6378_63313970dcf4c46d1a4f90e5/scale_1200"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Франшизы",
+            "questions": [
+                {
+                    "points": 10,
+                    "question": {
+                        "text": "",
+                        "image": "https://ss.sport-express.ru/userfiles/materials/202/2022585/volga.jpg"
+                    },
+                    "answer": {
+                        "text": "",
+                        "image": "https://static.okko.tv/images/v4/1a3dd169-0fa7-4227-bc60-64b2069b469d?scale=1&quality=80"
+                    }
+                },
+                {
+                    "points": 20,
+                    "question": {
+                        "text": "Какая часть?",
+                        "image": "https://media.kg-portal.ru/images/terminator4/terminator4_69.jpg"
+                    },
+                    "answer": {
+                        "text": "Терминатор 4: Да придёт спаситель",
+                        "image": "https://media.kg-portal.ru/movies/t/terminator4/posters/terminator4_12.jpg"
+                    }
+                },
+                {
+                    "points": 30,
+                    "question": {
+                        "text": "",
+                        "image": "https://i.ytimg.com/vi/8CYR7akMwdU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_ONr7kkj887Fc1yb6ahATrlcC2Q"
+                    },
+                    "answer": {
+                        "text": "Тор 2: Царство тьмы",
+                        "image": "https://static.okko.tv/images/v4/32adf4a0-a204-40cc-9667-4078a50fc6f9?scale=1&quality=80"
+                    }
+                },
+                {
+                    "points": 40,
+                    "question": {
+                        "text": "",
+                        "image": "https://www.on-off-on.ru/upload/iblock/b20/b20efe6bd437af0f65f73d0f0d4f9dcf.png"
+                    },
+                    "answer": {
+                        "text": "007 Казино Рояль",
+                        "image": "https://i.okcdn.ru/i?r=BDFSTM1h2o92P_v-s8DgGlgYe9g4wS5wEDHAWbiX_msvjNuYL1Bkr9LcMGrLEHFfiT0&fn=external_8"
+                    }
+                },
+                {
+                    "points": 50,
+                    "question": {
+                        "text": "",
+                        "image": "https://www.kinonews.ru/insimgs/shotimg/shotimg40325_2.jpg"
+                    },
+                    "answer": {
+                        "text": "Люди Икс: Дни минувшего будущего",
+                        "image": "https://tengrinews.kz/userdata/news/2014/news_255892/thumb_b/photo_126150.jpg"
+                    }
+                },
+                {
+                    "points": 50,
+                    "question": {
+                        "text": "",
+                        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/77df0f91-55d3-4405-a4c2-e1096e021efe/1920x"
+                    },
+                    "answer": {
+                        "text": "Бегущий в лабиринте: Лекарство от смерти",
+                        "image": "https://steamuserimages-a.akamaihd.net/ugc/933804796731174912/C75187D69A63CDEFEE6DF105691BC1D5320B5F38/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Где это??",
+            "questions": [
+                {
+                    "points": 10,
+                    "question": {
+                        "text": "",
+                        "image": "https://www.soyuz.ru/public/uploads/files/2/7622617/2023040721465228818526cf.jpg"
+                    },
+                    "answer": {
+                        "text": "Ласанжелес!",
+                        "image": "https://ic.pics.livejournal.com/dergachev_va/58474394/4182300/4182300_original.jpg"
+                    }
+                },
+                {
+                    "points": 20,
+                    "question": {
+                        "text": "",
+                        "image": "https://posta-magazine.ru/wp-content/uploads/2023/01/main_sherlock-best-scenes_posta-magazine.jpg"
+                    },
+                    "answer": {
+                        "text": "Лондон",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS113SrpYLMNecICvAN-SNzoSuM4n2X8D66eg&s"
+                    }
+                },
+                {
+                    "points": 30,
+                    "question": {
+                        "text": "",
+                        "image": "https://www.kino-teatr.ru/art/4939/68387.jpg"
+                    },
+                    "answer": {
+                        "text": "Эббинг, Штат Миссури",
+                        "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6617a10fdc9fe914b65efa0d_6617a3cc8ff890551a30c021/scale_1200"
+                    }
+                },
+                {
+                    "points": 40,
+                    "question": {
+                        "text": "",
+                        "image": "https://img.gazeta.ru/files3/795/12016795/upload-209023-pic4_zoom-1500x1500-25575.jpg"
+                    },
+                    "answer": {
+                        "text": "Ничего хорошего в отеле «Эль Рояль»",
+                        "image": "https://static.okko.tv/images/v4/da852efd-cdc2-4a45-90b9-bacea23922f1"
+                    }
+                },
+                {
+                    "points": 50,
+                    "question": {
+                        "text": "",
+                        "image": "https://s.afisha.ru/mediastorage/15/0d/44b97f02d87f4895a09fac420d15.jpg"
+                    },
+                    "answer": {
+                        "text": "Бейкерстрит",
+                        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/530d9f3d-1cc8-4b09-a562-56f711bc18be/576x"
+                    }
+                },
+                {
+                    "points": 100,
+                    "question": {
+                        "text": "",
+                        "image": "https://s1.afisha.ru/mediastorage/d8/81/5bb87554e6bb4cab992696ad81d8.jpg"
+                    },
+                    "answer": {
+                        "text": "Залечь на дно в Брюгге",
+                        "image": "https://thumbnails.odycdn.com/card/s:1280:720/quality:85/plain/https://thumbs.odycdn.com/5b0ff2bf961a69a426522fc6f0d8e751.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Цифорки",
+            "questions": [
+                {
+                    "points": 10,
+                    "question": {
+                        "text": "",
+                        "image": "https://i.ytimg.com/vi/hVQzUWA3Z4g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1NMj3SVyZemA8bTEzJS3BAe4LfQ"
+                    },
+                    "answer": {
+                        "text": "Девять",
+                        "image": "https://static.okko.tv/images/v4/f6dbaa6f-37e9-4b93-ba94-e828eaa2dd4a?scale=1&quality=80"
+                    }
+                },
+                {
+                    "points": 20,
+                    "question": {
+                        "text": "",
+                        "image": "https://s2.afisha.ru/mediastorage/87/3e/7fa8fa3d2fe04304b50ca3733e87.jpg"
+                    },
+                    "answer": {
+                        "text": "Семь",
+                        "image": "https://static.okko.tv/images/v4/243038b7-83f3-404e-acbd-3536931898ea?scale=1&quality=80"
+                    }
+                },
+                {
+                    "points": 30,
+                    "question": {
+                        "text": "",
+                        "image": "https://www.film.ru/sites/default/files/styles/epsa_1024x450/public/1447255-2508921.jpeg"
+                    },
+                    "answer": {
+                        "text": "Шестое чувство",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPti5Jg1KS9cjm-0RTXQjqcu5OYqf2srz_YqykhK9rl97WLegERUoWUmDglTYPGegY4U&usqp=CAU"
+                    }
+                },
+                {
+                    "points": 40,
+                    "question": {
+                        "text": "",
+                        "image": "https://s5.afisha.ru/mediastorage/4a/d0/ab53a05eddc84f81b2c7bd78d04a.jpg"
+                    },
+                    "answer": {
+                        "text": "Одиннадцать друзей Оушена",
+                        "image": "https://static.okko.tv/images/v4/23a78ec8-5607-4711-9c13-53a31a1c1ec7?scale=1&quality=80"
+                    }
+                },
+                {
+                    "points": 50,
+                    "question": {
+                        "text": "",
+                        "image": "https://www.kino-teatr.ru/movie/kadr/128260/930148.jpg"
+                    },
+                    "answer": {
+                        "text": "8 подруг Оушена",
+                        "image": "https://static.okko.tv/images/v4/9cd603c7-e2f5-4aa0-856f-1c615aaa0472?scale=1&quality=80"
+                    }
+                },
+                {
+                    "points": 100,
+                    "question": {
+                        "text": "",
+                        "image": "https://s3.afisha.ru/mediastorage/34/d6/734035a21bc64e14ac093277d634.jpg"
+                    },
+                    "answer": {
+                        "text": "11:14",
+                        "image": "https://i.okcdn.ru/videoPreview?id=428217206168&type=47&idx=30&tkn=tMkFWzYhHj5J6rqhqSgkMS-4q-o&i=1&fn=external_8"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Топ-250",
+            "questions": [
+                {
+                    "points": 10,
+                    "question": {
+                        "text": "",
+                        "image": "https://ic.pics.livejournal.com/dubikvit/65747770/8964465/8964465_900.jpg"
+                    },
+                    "answer": {
+                        "text": "Леон",
+                        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8662d92a-5881-4600-a7ae-549e6fd53b03/600x"
+                    }
+                },
+                {
+                    "points": 20,
+                    "question": {
+                        "text": "",
+                        "image": "https://img.gazeta.ru/files3/474/12872474/89787897-pic4_zoom-1500x1500-27374.jpg"
+                    },
+                    "answer": {
+                        "text": "Джентльмены",
+                        "image": "https://cs14.pikabu.ru/post_img/big/2024/03/16/9/1710602105122395620.jpg"
+                    }
+                },
+                {
+                    "points": 30,
+                    "question": {
+                        "text": "",
+                        "image": "https://neverendingstories27.wordpress.com/wp-content/uploads/2018/10/9855672b2a5fa05ccc4b8fc1aa0bd71a.jpeg"
+                    },
+                    "answer": {
+                        "text": "Достучаться до небес",
+                        "image": "https://cdn.ananasposter.ru/image/cache/catalog/poster/film/80/24268-1000x830.jpg"
+                    }
+                },
+                {
+                    "points": 40,
+                    "question": {
+                        "text": "",
+                        "image": "https://cdn.flickeringmyth.com/wp-content/uploads/2022/01/the-hunt-10.jpg"
+                    },
+                    "answer": {
+                        "text": "Охота",
+                        "image": "https://cdm-moscow.ru/upload/iblock/fcf/f550tze9uifqgs6zfe81e8r7ipm6fcu2.jpg"
+                    }
+                },
+                {
+                    "points": 50,
+                    "question": {
+                        "text": "",
+                        "image": "https://avatars.mds.yandex.net/i?id=0589ec95abb57cc4c8b2f94f74e93a2f_l-5275568-images-thumbs&n=13"
+                    },
+                    "answer": {
+                        "text": "Догвилль",
+                        "image": "https://3.bp.blogspot.com/-ruoP9d-R6Qk/WftDKiWow6I/AAAAAAAAJUo/Lwaw5dsr4y8P1TX3Vyuruj8Mf0y1LXcuACLcBGAs/s1600/DOGVILLE%2B-%2BUK%2BPoster.JPG"
+                    }
+                },
+                {
+                    "points": 100,
+                    "question": {
+                        "text": "",
+                        "image": "https://m.media-amazon.com/images/M/MV5BZGZiNTQ4MWItMTdhMS00YmRmLWIzYjUtMzQ1ZmJmNzkyMDJmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg"
+                    },
+                    "answer": {
+                        "text": "Невидимый гость",
+                        "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65e200eac904961cd9a4ac44_65e20196d2759d24bbab8f8a/scale_1200"
+                    }
+                }
+            ]
+        }
+    ]
+}

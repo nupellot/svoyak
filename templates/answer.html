@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ответ</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container text-center">
+        <img src="{{ answer.image }}" alt="Ответ">
+        <h2>{{ answer.text }}</h2>
+        {% if elapsed_time %}
+        <p>Время на ответ: {{ elapsed_time }} секунд</p>
+        {% endif %}
+        <div>
+            <a href="{{ url_for('home') }}" class="button">На главную</a>
+            <a href="{{ url_for('question', row=row, col=col) }}" class="button">Вернуться к вопросу</a>
+        </div>
+    </div>
+</body>
+</html>

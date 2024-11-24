@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Своя Игра</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Лиза с др</h1>
+        <table class="table">
+            <tbody>
+                {% for row_index, category in enumerate(categories) %}
+                <tr>
+                    <th>{{ category.name }}</th>
+                    {% for col_index, question in enumerate(category.questions) %}
+                    <td>
+                        {% if answered[row_index][col_index] %}
+                        <span class="answered">{{ question.points }} очков</span>
+                        {% else %}
+                        <a href="{{ url_for('question', row=row_index, col=col_index) }}">{{ question.points }} очков</a>
+                        {% endif %}
+                    </td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <form action="{{ url_for('reset') }}" method="get">
+            <button type="submit" class="button reset">Сбросить</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Вопрос</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script>
+        let startTime = new Date('{{ start_time }}');
+        function updateTimer() {
+            const now = new Date();
+            const elapsed = Math.floor((now - startTime) / 1000);
+            document.getElementById('timer').innerText = `${elapsed} секунд прошло`;
+        }
+        setInterval(updateTimer, 1000);
+    </script>
+</head>
+<body>
+    <div class="container text-center">
+        <img src="{{ question.image }}" alt="Вопрос">
+        <h2>{{ question.text }}</h2>
+        <p id="timer">0 секунд прошло</p>
+        <div>
+            <a href="{{ url_for('home') }}" class="button">Назад</a>
+            <a href="{{ url_for('answer', row=row, col=col, start_time=start_time) }}" class="button">Ответ</a>
+        </div>
+    </div>
+</body>
+</html>
